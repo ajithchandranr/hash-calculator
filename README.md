@@ -34,7 +34,7 @@ Hash Calculator is a Python script that calculates the SHA-256 hash value of a f
 
 ## Requirements
 
-- Python 3.x
+- Python 3.6
 
 Make sure you have Python 3.x installed on your system before running the script.
 
